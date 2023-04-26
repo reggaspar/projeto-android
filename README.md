@@ -1,12 +1,33 @@
-<h1> Projeto Android</h1>
-Projeto criado durante o curso HTML5 e CSS3 do CursoemVideo
+<h1 align="center"> Projeto Android</h1>
 
-![GitHub](https://img.shields.io/github/license/regianegaspar/projeto-cordel)
- 
- <h1>Sobre o projeto</h1>
- O projeto foi proposto como um desafio durante o curso.
+<p align="center">
+<a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-<h1>Tecnologias utilizadas</h1>
-HTML e CSS |
-Visual Studio Code |
-GitHub Desktop
+<p align="center">
+<img alt="Projeto Android" src="imagens/preview.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tcnologias:
+
+- HTML e CSS
+- Git e Github
+- Visual Studio Code
+
+## 💻 Projeto
+O rojeto criado durante o curso HTML5 e CSS3 do CursoemVideo (módulo 2) onde coloquei em prática meus conheccimentos adiquiridos em listas em HTML, menu e esponsividade.
+
+
+-[Visite o projeto online](https://regianegaspar.github.io/projeto-android/)
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+<p align="center"> Feito com 🤍 by Regiane Gaspar </p>
