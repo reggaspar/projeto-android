@@ -3,11 +3,11 @@
 <p align="center">
 <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
-<img alt="Projeto Android" src="imagens/preview.jpg" width="100%">
+<img alt="Projeto Android" src="https://github.com/regianegaspar/projeto-android/blob/main/imagens/preview.JPG?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
