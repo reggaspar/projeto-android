@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tcnologias:
 - Visual Studio Code
 
 ## 💻 Projeto
-O rojeto criado durante o curso HTML5 e CSS3 do CursoemVideo (módulo 2) onde coloquei em prática meus conheccimentos adiquiridos em listas em HTML, menu e esponsividade.
+Projeto criado durante o curso HTML5 e CSS3 do CursoemVideo (módulo 2) onde coloquei em prática meus conheccimentos adiquiridos em listas em HTML, menu e esponsividade.
 
 
 -[Visite o projeto online](https://regianegaspar.github.io/projeto-android/)
